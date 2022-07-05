@@ -1,29 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Zen+Old+Mincho:wght@400;700;900&display=swap');
-@font-face {
-    font-family: YuGothM;
-    src: url(../fonts/YuGothM_0.ttc);
-}
-
-@font-face {
-    font-family: YuGothB;
-    src: url(../fonts/YuGothB.ttc);
-}
-
-@font-face {
-    font-family: Braisetto-M;
-    src: url(../fonts/Braisetto-Bold.otf);
-}
-
-@font-face {
-    font-family: YuMincho;
-    src: url(../fonts/yumin.ttf);
-}
-
-$BrasM-font: Braisetto-M;
-$YuB-font: YuGothB;
-$YuM-font: YuGothM;
-$Yumincho: YuMincho;
-$Garamond-font: 'EB Garamond',
-serif;
-$ZenOld-font: 'Zen Old Mincho',
-serif;
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Source+Sans+Pro&display=swap');
+$font-fjalla: 'Fjalla One',
+sans-serif;
+$font-source: 'Source Sans Pro',
+sans-serif;

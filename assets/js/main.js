@@ -29,7 +29,7 @@ $(document).ready(function() {
 });
 
 // tab 
-function openCity(evt, roadmap) {
+function openMap(evt, roadmap) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
     for (i = 0; i < tabcontent.length; i++) {
